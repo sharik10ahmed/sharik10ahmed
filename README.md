@@ -8,18 +8,30 @@ Hi there! 👋<br>I am a Computer Science student passionate about building effi
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 # 📊 GitHub Stats:
-![Sharik's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![Sharik's Streak](https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Sharik's GitHub stats" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+</p>
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=sharik10ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=sharik10ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
 
 ### 🔝 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
+</p>
 
 ---
-[![Profile Views](https://visitcount.itsvg.in/api?id=sharik10ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=sharik10ahmed&icon=0&color=0" alt="Profile Views" />
+  </a>
+</div>
