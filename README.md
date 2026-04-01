@@ -9,7 +9,7 @@ Hi there! 👋<br>I am a Computer Science student passionate about building effi
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![]![](https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
