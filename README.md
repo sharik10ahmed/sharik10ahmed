@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Backend+Logic+Enthusiast;Python,+C,+and+Django;Building+Efficient+Software" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=sharik10ahmed&icon=0&color=0" alt="Profile Views" />
-  </a>
-</p>
+
 
 ---
 
@@ -51,38 +47,11 @@ I am passionate about building efficient software. My focus is on backend logic 
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/main/github-contribution-grid-snake.svg" />
-</p>
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Sharik's GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
-</p>
-
----
-
-## 🏆 Trophies & Contributions
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharik10ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
 </p>
 
 ---
