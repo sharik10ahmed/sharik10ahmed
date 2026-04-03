@@ -50,7 +50,7 @@ I am passionate about building efficient software. My focus is on backend logic 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Sharik's GitHub stats" />
+  
   <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
 </p>
 
