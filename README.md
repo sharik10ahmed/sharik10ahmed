@@ -72,6 +72,8 @@ I am passionate about building efficient software. My focus is on backend logic 
 
 <p align="center">
   <img src="https://my-github-stats-sand.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Sharik's GitHub stats" />
+</p>
+  <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
 </p>
 
