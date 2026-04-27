@@ -56,7 +56,7 @@ I am passionate about building efficient software. My focus is on backend logic 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
 </p>
-
+<br>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/output/github-contribution-grid-snake-dark.svg" />
