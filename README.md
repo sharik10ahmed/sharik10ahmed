@@ -80,8 +80,8 @@ I am passionate about building efficient software. My focus is on backend logic 
 <p align="center">
   <img src="https://my-github-stats-sand.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
 </p>
----
 
+---
 ## 🏆 Trophies & Contributions
 
 <p align="center">
