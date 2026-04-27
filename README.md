@@ -54,7 +54,12 @@ I am passionate about building efficient software. My focus is on backend logic 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar"/>
+  <img src="https://my-github-stats-sand.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Sharik's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://my-github-stats-sand.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
 </p>
 <br>
 <p align="center">
