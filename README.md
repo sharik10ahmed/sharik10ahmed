@@ -84,14 +84,10 @@ I am passionate about building efficient software. My focus is on backend logic 
 
 ---
 
-## 🏆 Trophies & Contributions
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharik10ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=10" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://final-top-repos.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true&v=10" alt="Top Repo" />
 </p>
 
 ---
