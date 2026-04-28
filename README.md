@@ -71,25 +71,26 @@ I am passionate about building efficient software. My focus is on backend logic 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://my-github-stats-sand.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Sharik's GitHub stats" />
+  <img src="https://my-github-stats-sand.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=4" alt="Sharik's GitHub stats" />
 </p>
-  <p align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
 </p>
-
 <p align="center">
-  <img src="https://my-github-stats-sand.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://my-github-stats-sand.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=4" alt="Top Langs" />
 </p>
 
 ---
+
+
 ## 🏆 Trophies & Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharik10ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sharik10ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=4" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://my-top-repos.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true&v=3" alt="Top Repo" />
+  <img src="https://my-top-repos.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true&v=4" alt="Top Repo" />
 </p>
 
 
