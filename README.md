@@ -71,13 +71,13 @@ I am passionate about building efficient software. My focus is on backend logic 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://my-github-stats-sand.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=4" alt="Sharik's GitHub stats" />
+  <img src="https://my-github-stats-sand.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=5" alt="Sharik's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
 </p>
 <p align="center">
-  <img src="https://my-github-stats-sand.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=4" alt="Top Langs" />
+  <img src="https://my-github-stats-sand.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=5" alt="Top Langs" />
 </p>
 
 ---
