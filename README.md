@@ -71,13 +71,13 @@ I am passionate about building efficient software. My focus is on backend logic 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://my-github-stats-sand.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=5" alt="Sharik's GitHub stats" />
+  <img src="https://my-github-stats-sand.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=6" alt="Sharik's GitHub stats" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
 </p>
 <p align="center">
-  <img src="https://my-github-stats-sand.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=5" alt="Top Langs" />
+  <img src="https://my-github-stats-sand.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=6" alt="Top Langs" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ I am passionate about building efficient software. My focus is on backend logic 
 </p>
 
 <p align="center">
-  <img src="https://my-top-repos.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true&v=4" alt="Top Repo" />
+<img src="https://my-top-repos.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true&v=6" alt="Top Repo" />
 </p>
 
 
