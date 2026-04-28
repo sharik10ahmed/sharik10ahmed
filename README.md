@@ -89,7 +89,7 @@ I am passionate about building efficient software. My focus is on backend logic 
 </p>
 
 <p align="center">
-  <img src="https://my-top-repos.vercel.app//api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
+  <img src="https://my-top-repos.vercel.app/api?username=sharik10ahmed&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repo" />
 </p>
 
 
