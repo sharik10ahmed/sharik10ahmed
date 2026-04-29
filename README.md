@@ -69,10 +69,10 @@ I am passionate about building efficient, end-to-end software solutions. I love 
 ---
 
 ## 📊 GitHub Analytics
-
+<!--
 <p align="center">
   <img src="https://final-stats.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&v=9" alt="Sharik's GitHub stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
