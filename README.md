@@ -13,16 +13,16 @@
 
 ## 🧠 About Me
 
-**Computer Science Student & Backend Developer**
+**Computer Science Student & Full Stack Developer**
 
-I am passionate about building efficient software. My focus is on backend logic and database management, while actively building my frontend skills to create complete, responsive web solutions.
+I am passionate about building efficient, end-to-end software solutions. I love bridging the gap between robust backend architectures and engaging, responsive user interfaces to create seamless web experiences.
 
-- 🔭 **Currently working on:** Developing logic-based applications using Python and C, and building robust web backends with Django.
-- 🌱 **Currently learning:** The fundamentals of HTML, CSS, and Bootstrap 5 to design engaging frontend interfaces.
-- 👯 **Looking to collaborate on:** Database management projects (PostgreSQL/pgAdmin 4) and full-stack web applications.
-- 🤝 **Looking for help with:** Advanced Data Structures and Algorithms in C.
-- 💬 **Ask me about:** Python scripting, Django frameworks, C programming, Linux environments, or SQL queries.
-- ⚡ **Fun fact:** I treat reserved keywords and semicolons in C like they are oxygen—forget one, and everything stops working!
+- 🔭 **Currently working on:** Building full-stack web applications using Django for the backend and HTML/CSS/Bootstrap 5 for dynamic frontends, alongside core logic applications in Python and C.
+- 🌱 **Currently learning:** Integrating modern JavaScript and advanced frontend techniques to build even more interactive and reactive user interfaces.
+- 👯 **Looking to collaborate on:** End-to-end full-stack web applications and complex database management projects (PostgreSQL/pgAdmin 4).
+- 🤝 **Looking for help with:** Advanced Data Structures and Algorithms in C, and optimizing UI/UX performance.
+- 💬 **Ask me about:** Python scripting, Django frameworks, designing layouts with Bootstrap, C programming, Linux environments, or writing complex SQL queries.
+- ⚡ **Fun fact:** I treat reserved keywords and semicolons in C like they are oxygen—forget one, and everything stops working—but trying to vertically center a `div` in CSS still occasionally takes my breath away!
 
 ---
 
