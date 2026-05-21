@@ -75,7 +75,7 @@ I am passionate about building efficient, end-to-end software solutions. I love 
 </p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
+  <img src="https://sharik-streak-stats.vercel.app/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
 </p>
 
 <p align="center">
