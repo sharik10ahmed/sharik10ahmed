@@ -66,7 +66,7 @@ I am passionate about building efficient, end-to-end software solutions. I love 
   </picture>
 </p>
 
----
+--- 
 
 ## 📊 GitHub Analytics
 
