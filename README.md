@@ -84,11 +84,11 @@ I am passionate about building efficient, end-to-end software solutions. I love 
 
 ---
 
-## 🏆 Trophies
+<!-- ## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sharik10ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=12" alt="Trophies" />
-</p>
+</p> -->
 
 ---
 
