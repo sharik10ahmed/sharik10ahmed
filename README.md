@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=sharik10ahmed&label=Profile%20Views&color=00599C&style=flat" alt="Profile Views" />
 </p>
 
-
 ---
 
 ## 🧠 About Me
@@ -31,7 +30,9 @@ I am passionate about building efficient, end-to-end software solutions. I love 
 **Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </p>
 
@@ -42,12 +43,14 @@ I am passionate about building efficient, end-to-end software solutions. I love 
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-**Databases & Environment**
+**Databases, Tools & Environment**
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </p>
 
 ---
@@ -70,10 +73,6 @@ I am passionate about building efficient, end-to-end software solutions. I love 
 
 ## 📊 GitHub Analytics
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Sharik's GitHub stats" />
-</p> -->
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false&v=1" alt="Sharik's Streak" />
 </p>
@@ -83,12 +82,6 @@ I am passionate about building efficient, end-to-end software solutions. I love 
 </p>
 
 ---
-
-<!-- ## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sharik10ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=12" alt="Trophies" />
-</p> -->
 
 ---
 
@@ -110,4 +103,3 @@ I am passionate about building efficient, end-to-end software solutions. I love 
 <p align="center">
   <i>💡 Building efficient software? Let's connect and collaborate!</i>
 </p>
-
