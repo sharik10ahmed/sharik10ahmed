@@ -74,7 +74,7 @@ I am passionate about building efficient, end-to-end software solutions. I love 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=dark&hide_border=false&v=1" alt="Sharik's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharik10ahmed&theme=dark&hide_border=false" alt="Sharik's Streak" />
 </p>
 
 <p align="center">
