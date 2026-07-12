@@ -32,32 +32,37 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
 
 ---
 
-## ⚙️ Technical Arsenal
-*A comprehensive breakdown of the languages, frameworks, and environments I use to bring ideas to life.*
+<h2 align="center">✦ Technical Arsenal ✦</h2>
+<br>
 
-### 🧱 Backend & Architecture
-| Icon | Technology | Specialization & Focus |
-|:---:|:---|:---|
-| <img src="https://skillicons.dev/icons?i=python" width="35"/> | **Python** | Core logic, scripting, and backend automation |
-| <img src="https://skillicons.dev/icons?i=django" width="35"/> | **Django** | Robust, scalable, full-stack backend architecture |
-| <img src="https://skillicons.dev/icons?i=fastapi" width="35"/> | **FastAPI** | High-performance, asynchronous RESTful APIs |
-| <img src="https://skillicons.dev/icons?i=c" width="35"/> | **C** | Low-level memory management and core algorithms |
-| <img src="https://skillicons.dev/icons?i=java" width="35"/> | **Java** | Object-Oriented enterprise logic and structuring |
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <h3>⚡ Backend & APIs</h3>
+      <img src="https://skillicons.dev/icons?i=python,django,fastapi,c,java" />
+      <br><br>
+      <kbd>Python</kbd>&nbsp;&nbsp;&nbsp;<kbd>Django</kbd>&nbsp;&nbsp;&nbsp;<kbd>FastAPI</kbd>&nbsp;&nbsp;&nbsp;<kbd>C</kbd>&nbsp;&nbsp;&nbsp;<kbd>Java</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <h3>🎨 Frontend & Design</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+      <br><br>
+      <kbd>HTML5</kbd>&nbsp;&nbsp;&nbsp;<kbd>CSS3</kbd>&nbsp;&nbsp;&nbsp;<kbd>JavaScript</kbd>&nbsp;&nbsp;&nbsp;<kbd>Bootstrap</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <h3>🛠️ Database & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,linux,git,vscode,idea" />
+      <br><br>
+      <kbd>PostgreSQL</kbd>&nbsp;&nbsp;&nbsp;<kbd>Linux</kbd>&nbsp;&nbsp;&nbsp;<kbd>Git</kbd>&nbsp;&nbsp;&nbsp;<kbd>VS Code</kbd>&nbsp;&nbsp;&nbsp;<kbd>IntelliJ</kbd>
+    </td>
+  </tr>
+</table>
 
-### 🎨 Frontend & User Interface
-| Icon | Technology | Specialization & Focus |
-|:---:|:---|:---|
-| <img src="https://skillicons.dev/icons?i=html,css" width="70"/> | **HTML5 & CSS3** | Semantic structure and responsive modern styling |
-| <img src="https://skillicons.dev/icons?i=js" width="35"/> | **JavaScript** | Dynamic client-side rendering and interactivity |
-| <img src="https://skillicons.dev/icons?i=bootstrap" width="35"/> | **Bootstrap** | Rapid, mobile-first responsive design frameworks |
-
-### 🛠️ Infrastructure & Databases
-| Icon | Technology | Specialization & Focus |
-|:---:|:---|:---|
-| <img src="https://skillicons.dev/icons?i=postgres" width="35"/> | **PostgreSQL** | Complex relational database management and querying |
-| <img src="https://skillicons.dev/icons?i=linux" width="35"/> | **Linux** | Server environments and command-line operations |
-| <img src="https://skillicons.dev/icons?i=git" width="35"/> | **Git** | Advanced version control and team collaboration |
-| <img src="https://skillicons.dev/icons?i=vscode,idea" width="70"/> | **VS Code & IntelliJ** | Primary Integrated Development Environments (IDEs) |
+<br>
 
 ---
 
@@ -82,7 +87,7 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
   <img src="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="800" />
 </div>
 
----
+<br><br>
 
 <div align="center">
   <i>"Building the future, one line of code at a time."</i><br><br>
