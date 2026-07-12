@@ -30,7 +30,7 @@
     </td>
     <td width="40%" align="center" valign="top">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=sharik10ahmed&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+      <img src="https://sharik-top-langs.vercel.app/api?username=sharik10ahmed&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -131,7 +131,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharik10ahmed&theme=radical&hide_border=true&background=00000000" alt="Streak" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharik10ahmed&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000" alt="Top Langs" />
+        <img src="https://sharik-top-langs.vercel.app/api/top-langs/?username=sharik10ahmed&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000" alt="Top Langs" />
       </td>
     </tr>
   </table>
