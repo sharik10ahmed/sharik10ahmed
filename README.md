@@ -93,7 +93,8 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharik10ahmed&theme=radical&hide_border=true&border_radius=10" alt="Sharik's Streak" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharik10ahmed&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&border_radius=10" alt="Top Langs" />
+       <img src="https://sharik-top-langs.vercel.app/api/top-langs/?username=sharik10ahmed&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+
       </td>
     </tr>
   </table>
