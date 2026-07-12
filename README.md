@@ -34,15 +34,13 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1500&color=0078D7&center=true&vCenter=true&width=500&height=60&lines=Technical+Arsenal;Core+Technologies;Development+Stack" alt="Animated Header" />
-</div>
+<h2 align="center">✦ Technical Arsenal ✦</h2>
+<br>
 
 <table align="center" style="border: none;">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=Backend+%26+Logic;Server-Side+Architecture;API+Engineering" alt="Backend Animated" />
-      <br>
+      <h3>⚡ Backend & Logic</h3>
       <img src="https://skillicons.dev/icons?i=c,java,python,django,fastapi" />
       <br><br>
       <kbd>C</kbd>&nbsp;&nbsp;&nbsp;<kbd>Java</kbd>&nbsp;&nbsp;&nbsp;<kbd>Python</kbd>&nbsp;&nbsp;&nbsp;<kbd>Django</kbd>&nbsp;&nbsp;&nbsp;<kbd>FastAPI</kbd>
@@ -50,8 +48,7 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=Frontend+%26+Design;User+Interface;Reactive+Components" alt="Frontend Animated" />
-      <br>
+      <h3>🎨 Frontend & Design</h3>
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
       <br><br>
       <kbd>HTML5</kbd>&nbsp;&nbsp;&nbsp;<kbd>CSS3</kbd>&nbsp;&nbsp;&nbsp;<kbd>JavaScript</kbd>&nbsp;&nbsp;&nbsp;<kbd>Bootstrap</kbd>
@@ -59,8 +56,7 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=Environment+%26+Tools;Infrastructure;Version+Control" alt="Tools Animated" />
-      <br>
+      <h3>🛠️ Environment & Tools</h3>
       <img src="https://skillicons.dev/icons?i=postgres,linux,windows,bash,vscode,idea" />
       <br><br>
       <kbd>PostgreSQL</kbd>&nbsp;&nbsp;&nbsp;<kbd>Fedora / Linux</kbd>&nbsp;&nbsp;&nbsp;<kbd>Windows Terminal</kbd>&nbsp;&nbsp;&nbsp;<kbd>VS Code</kbd>&nbsp;&nbsp;&nbsp;<kbd>IntelliJ</kbd>
