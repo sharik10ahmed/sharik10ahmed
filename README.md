@@ -35,13 +35,13 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=✦+Technical+Arsenal+✦;✦+Core+Technologies+✦;✦+Development+Stack+✦" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1500&color=0078D7&center=true&vCenter=true&width=500&height=60&lines=Technical+Arsenal;Core+Technologies;Development+Stack" alt="Animated Header" />
 </div>
 
 <table align="center" style="border: none;">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=⚡+Backend+%26+Logic;⚡+Server-Side+Architecture;⚡+API+Engineering" alt="Backend Animated" />
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=Backend+%26+Logic;Server-Side+Architecture;API+Engineering" alt="Backend Animated" />
       <br>
       <img src="https://skillicons.dev/icons?i=c,java,python,django,fastapi" />
       <br><br>
@@ -50,7 +50,7 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=🎨+Frontend+%26+Design;🎨+User+Interface;🎨+Reactive+Components" alt="Frontend Animated" />
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=Frontend+%26+Design;User+Interface;Reactive+Components" alt="Frontend Animated" />
       <br>
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
       <br><br>
@@ -59,7 +59,7 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=🛠️+Environment+%26+Tools;🛠️+Infrastructure;🛠️+Version+Control" alt="Tools Animated" />
+      <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=2000&color=c9d1d9&center=true&vCenter=true&width=350&height=40&lines=Environment+%26+Tools;Infrastructure;Version+Control" alt="Tools Animated" />
       <br>
       <img src="https://skillicons.dev/icons?i=postgres,linux,windows,bash,vscode,idea" />
       <br><br>
