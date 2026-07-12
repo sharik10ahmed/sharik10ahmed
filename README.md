@@ -20,10 +20,12 @@
 
 I am a **Computer Science Student** and **Full-Stack Developer** with a profound focus on backend logic and scalable system architecture. 
 
-* 🔭 **Currently Engineering:** High-performance full-stack applications leveraging **Django** and **FastAPI**.
-* 🌱 **Currently Mastering:** Asynchronous programming, reactive UIs, and deep system optimization.
-* 🤝 **Collaborating On:** Complex database architectures, end-to-end full-stack systems, and APIs.
-* 💡 **Fun Fact:** I treat semicolons in C like oxygen—forget one and everything crashes. Yet, vertically centering a `<div>` in CSS still tests my patience!
+- 🔭 **Currently working on:** Building full-stack web applications using **Django** and **FastAPI** for the backend, and HTML/CSS/Bootstrap for dynamic frontends, alongside core logic in **Python** and **C**.
+- 🌱 **Currently learning:** Integrating modern **JavaScript** and advanced frontend techniques to build highly reactive user interfaces.
+- 👯 **Looking to collaborate on:** End-to-end full-stack web applications and complex database management projects (PostgreSQL).
+- 🤝 **Looking for help with:** Advanced Data Structures and Algorithms in C, and optimizing UI/UX performance.
+- 💬 **Ask me about:** Python scripting, Django frameworks, Bootstrap layouts, C programming, Linux environments, or writing complex SQL queries.
+- ⚡ **Fun fact:** I treat reserved keywords and semicolons in C like they are oxygen—forget one, and everything stops working. Yet, trying to vertically center a `<div>` in CSS still occasionally takes my breath away!
 
 <div align="center">
   <br>
@@ -38,10 +40,10 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
 <table align="center" style="border: none;">
   <tr>
     <td align="center" style="padding: 20px;">
-      <h3>⚡ Backend & APIs</h3>
-      <img src="https://skillicons.dev/icons?i=python,django,fastapi,c,java" />
+      <h3>⚡ Backend & Logic</h3>
+      <img src="https://skillicons.dev/icons?i=c,java,python,django,fastapi" />
       <br><br>
-      <kbd>Python</kbd>&nbsp;&nbsp;&nbsp;<kbd>Django</kbd>&nbsp;&nbsp;&nbsp;<kbd>FastAPI</kbd>&nbsp;&nbsp;&nbsp;<kbd>C</kbd>&nbsp;&nbsp;&nbsp;<kbd>Java</kbd>
+      <kbd>C</kbd>&nbsp;&nbsp;&nbsp;<kbd>Java</kbd>&nbsp;&nbsp;&nbsp;<kbd>Python</kbd>&nbsp;&nbsp;&nbsp;<kbd>Django</kbd>&nbsp;&nbsp;&nbsp;<kbd>FastAPI</kbd>
     </td>
   </tr>
   <tr>
@@ -54,10 +56,10 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <h3>🛠️ Database & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,linux,git,vscode,idea" />
+      <h3>🛠️ Environment & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,linux,windows,bash,vscode,idea" />
       <br><br>
-      <kbd>PostgreSQL</kbd>&nbsp;&nbsp;&nbsp;<kbd>Linux</kbd>&nbsp;&nbsp;&nbsp;<kbd>Git</kbd>&nbsp;&nbsp;&nbsp;<kbd>VS Code</kbd>&nbsp;&nbsp;&nbsp;<kbd>IntelliJ</kbd>
+      <kbd>PostgreSQL</kbd>&nbsp;&nbsp;&nbsp;<kbd>Fedora / Linux</kbd>&nbsp;&nbsp;&nbsp;<kbd>Windows Terminal</kbd>&nbsp;&nbsp;&nbsp;<kbd>VS Code</kbd>&nbsp;&nbsp;&nbsp;<kbd>IntelliJ</kbd>
     </td>
   </tr>
 </table>
@@ -87,9 +89,15 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
   <img src="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="800" />
 </div>
 
-<br><br>
+<br>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
 
 <div align="center">
-  <i>"Building the future, one line of code at a time."</i><br><br>
+  <i>💡 Building efficient software? Let's connect and collaborate!</i><br><br>
   <img src="https://komarev.com/ghpvc/?username=sharik10ahmed&label=Profile%20Views&color=0078D7&style=for-the-badge" alt="Profile Views" />
 </div>
