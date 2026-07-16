@@ -79,9 +79,9 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/output/github-contribution-grid-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/output/github-contribution-grid-snake.svg?v=1" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/sharik10ahmed/sharik10ahmed/output/github-contribution-grid-snake.svg?v=1" />
   </picture>
 </div>
 
