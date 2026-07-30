@@ -71,7 +71,7 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sharik10ahmed&theme=radical&hide_border=true&background=00000000" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharik10ahmed&theme=radical&hide_border=true&background=00000000" alt="Streak" />
   <img src="https://sharik-top-langs.vercel.app/api/top-langs/?username=sharik10ahmed&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=00000000" alt="Top Langs" />
 </div>
 
