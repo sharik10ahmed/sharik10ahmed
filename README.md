@@ -100,4 +100,4 @@ I am a **Computer Science Student** and **Full-Stack Developer** with a profound
 <div align="center">
   <i>💡 Building efficient software? Let's connect and collaborate!</i><br><br>
   <img src="https://komarev.com/ghpvc/?username=sharik10ahmed&label=Profile%20Views&color=0078D7&style=for-the-badge" alt="Profile Views" />
-</div> 
+</div>
