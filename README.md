@@ -26,7 +26,7 @@ I am a **Full Stack Engineer** at **SoSync AI Tech** and a **Computer Science St
 - 🤝 **Looking for help with:** Low-level system performance tuning and advanced algorithmic optimization.
 - 💬 **Ask me about:** Python scripting, Django/FastAPI frameworks, C memory management & pointers, Linux environments, or designing complex relational schemas in SQL.
 - ⚡ **Fun fact:** I treat reserved keywords and memory pointers in C like they are oxygen—forget one, and everything stops working. Yet, trying to vertically center a `<div>` in CSS still occasionally takes my breath away!
-- 
+  
 
 <div align="center">
   <br>
