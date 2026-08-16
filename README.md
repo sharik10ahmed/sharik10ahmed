@@ -18,14 +18,15 @@
 
 > *"I am driven by the desire to architect robust, scalable, and efficient software. I thrive on translating complex logic into seamless digital experiences."*
 
-I am a **Computer Science Student** and **Full-Stack Developer** with a profound focus on backend logic and scalable system architecture. 
+I am a **Full Stack Engineer** at **SoSync AI Tech** and a **Computer Science Student** (BCA in AI/ML) with a profound focus on backend logic, algorithmic problem-solving, and scalable system architecture.
 
-- 🔭 **Currently working on:** Building full-stack web applications using **Django** and **FastAPI** for the backend, and HTML/CSS/Bootstrap for dynamic frontends, alongside core logic in **Python** and **C**.
-- 🌱 **Currently learning:** Integrating modern **JavaScript** and advanced frontend techniques to build highly reactive user interfaces.
-- 👯 **Looking to collaborate on:** End-to-end full-stack web applications and complex database management projects (PostgreSQL).
-- 🤝 **Looking for help with:** Advanced Data Structures and Algorithms in C, and optimizing UI/UX performance.
-- 💬 **Ask me about:** Python scripting, Django frameworks, Bootstrap layouts, C programming, Linux environments, or writing complex SQL queries.
-- ⚡ **Fun fact:** I treat reserved keywords and semicolons in C like they are oxygen—forget one, and everything stops working. Yet, trying to vertically center a `<div>` in CSS still occasionally takes my breath away!
+- 🔭 **Currently working on:** Architecting full-stack web applications using **Django**, **Django REST Framework**, and **FastAPI** for backends, paired with **Tailwind CSS** and **Bootstrap** for responsive frontends.
+- 🌱 **Currently learning:** Advanced **Data Structures & Algorithms (DSA)** in **C** and **Python**, alongside modern frontend integration with **JavaScript**.
+- 👯 **Looking to collaborate on:** Scalable full-stack platforms, AI-integrated workflows, and complex database management systems using **PostgreSQL**.
+- 🤝 **Looking for help with:** Low-level system performance tuning and advanced algorithmic optimization.
+- 💬 **Ask me about:** Python scripting, Django/FastAPI frameworks, C memory management & pointers, Linux environments, or designing complex relational schemas in SQL.
+- ⚡ **Fun fact:** I treat reserved keywords and memory pointers in C like they are oxygen—forget one, and everything stops working. Yet, trying to vertically center a `<div>` in CSS still occasionally takes my breath away!
+- 
 
 <div align="center">
   <br>
