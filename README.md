@@ -102,3 +102,4 @@ I am a **Full Stack Engineer** at **SoSync AI Tech** and a **Computer Science St
   <i>💡 Building efficient software? Let's connect and collaborate!</i><br><br>
   <img src="https://komarev.com/ghpvc/?username=sharik10ahmed&label=Profile%20Views&color=0078D7&style=for-the-badge" alt="Profile Views" />
 </div>
+ 
